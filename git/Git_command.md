@@ -50,3 +50,8 @@ Otestuj, či SSH pripojenie na GitHub funguje:
         Hi Orimslav/linux_scada_ofz! You've successfully authenticated, but GitHub does not provide shell access.
 
 Hotovo 👍
+
+Klonovanie repozitara z Githubu
+    git clone git@github.com:Orimslav/linux_scada_ofz.git .            // ssh
+    git clone https://github.com/Orimslav/linux_scada_ofz.git .        //https
+
