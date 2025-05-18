@@ -6,7 +6,10 @@ Odpojenie od povodneho projektu/repozitara
     git remote remove origin
 
 Pripojenie k novemu repozitaru 
-    git remote add origin https://github.com/Orimslav/linux_scada_ofz.git
+    git remote add origin https://github.com/Orimslav/linux_scada_ofz.git       //http
+
+    git remote add origin git@github.com:Orimslav/linux_scada_ofz.git           //ssh
+
 
 Pridanie vsetkych suborov do gitu
     git add .
